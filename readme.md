@@ -24,7 +24,7 @@
     - [__(A) Dependencies__](#a-dependencies)
     - [__(B) Dataset__](#b-dataset)
     - [__(C) Modelling__](#c-modelling)
-    - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
+    - [__(D) Deployment as web demo app__](#d-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
   - NOTE: The model file exceeded limitations. you can download it from this [link](https://huggingface.co/spaces/ErtugrulDemir/AgeAndGenderPredict/resolve/main/GenAgeModel.zip).
