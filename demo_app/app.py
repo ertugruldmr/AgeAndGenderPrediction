@@ -5,7 +5,7 @@ import numpy as np
 
 # declerations
 model_path = 'GenAgeModel' 
-u_gif = "/content/usage.gif"
+u_gif = "usage.gif"
 gender_dict = {0:'Male', 1:'Female'}
 examples_path = "samples"
 usage_text = """- Focus the face.
