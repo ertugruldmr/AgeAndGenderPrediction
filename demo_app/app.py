@@ -8,6 +8,11 @@ model_path = 'GenAgeModel'
 u_gif = "/content/usage.gif"
 gender_dict = {0:'Male', 1:'Female'}
 examples_path = "samples"
+usage_text = """- Focus the face.
+              - upper side of image : forehead
+              - lower side of image : chin
+              - lef and right side border: ears"""
+
 
 # laoding the model
 model = tf.keras.models.load_model(model_path)
@@ -50,6 +55,7 @@ with gr.Blocks() as demo:
     # defining the components
     gr.Markdown("Use the __capture icon__ where on the __bottom center of the camera window__ for __taking photo__")
     gr.Markdown("For better prediction, pose like examples. Get close the camera, open the lights etc...")
+    gr.Markdown(usage_text)
     with gr.Row():
       image = gr.Image(value=u_gif, shape=(224, 224), type="pil",abel="upload images")
       cam_image = gr.Image(shape=(224, 224), type="pil", source="webcam", label="Take Photo Via ICON")
