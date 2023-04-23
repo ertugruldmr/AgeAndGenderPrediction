@@ -1,0 +1,11 @@
+gradio==3.27.0
+keras==2.11.0
+matplotlib==3.6.2
+nltk==3.8.1
+numpy==1.23.5
+pandas==1.5.2
+Pillow==9.5.0
+protobuf==4.22.3
+seaborn==0.12.2
+tensorflow==2.11.0
+tqdm==4.65.0
