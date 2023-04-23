@@ -15,8 +15,8 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-ageandgenderpredict.hf.space)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1uTLVmW9fuwOlF4tMI4Ltpencu-y_oyuW)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -27,7 +27,7 @@
     - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
-  - NOTE: The model file exceeded limitations. you can download it from this [link]().
+  - NOTE: The model file exceeded limitations. you can download it from this [link](https://huggingface.co/spaces/ErtugrulDemir/AgeAndGenderPredict/resolve/main/GenAgeModel.zip).
 
 ## __Brief__ 
 
@@ -45,16 +45,17 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-ageandgenderpredict.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1_xEIpvFcWa6yZpIwjPbBYS_ED16BMNoY"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/AgeAndGenderPrediction/blob/main/study.ipynb
+"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1uTLVmW9fuwOlF4tMI4Ltpencu-y_oyuW"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -79,11 +80,11 @@
       <div style="text-align: center;">
         <img src="docs/images/usage.gif" style="width: 400px; height: 300px;">
       </div>
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-ageandgenderpredict.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-ageandgenderpredict.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -238,7 +239,7 @@ The project aimed predicting the age and gender using deep learning model archit
     - Usage: upload or select the image for generating then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-ageandgenderpredict.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
