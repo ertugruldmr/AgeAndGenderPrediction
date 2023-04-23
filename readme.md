@@ -78,7 +78,7 @@
             - lef and right side border: ears
     - Usage
       <div style="text-align: center;">
-        <img src="docs/images/usage.gif" style="width: 400px; height: 300px;">
+        <img src="docs/images/usage.gif" style="width: 800px; height: 600px;">
       </div>
 - Embedded [Demo](https://ertugruldemir-ageandgenderpredict.hf.space) window from HuggingFace Space
     
