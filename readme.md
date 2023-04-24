@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/channel/UCB0_UTu-zbIsoRBHgpsrlsA"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" height="30"></a>
 </div>
 
-# Pet Image Segmentation
+# Age And Gender Prediction
  
 ## __Table Of Content__
 - (A) [__Brief__](#brief)
